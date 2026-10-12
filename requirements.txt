@@ -1,0 +1,7 @@
+# Python 3.11.15. Versions pinned to those used in the manuscript.
+cobra==0.32.1
+numpy==2.4.4
+scipy==1.17.1
+matplotlib==3.10.9
+# Optional: only required by fig_pathway_sci.py for the chemical-structure panels
+rdkit==2024.3.5

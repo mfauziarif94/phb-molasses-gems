@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated manuscript."
+title: "Comparative genome-scale metabolic modelling of PHB production from sugarcane molasses: code and data"
+authors:
+  - family-names: Arif
+    given-names: Muhammad Fauzi
+    orcid: "https://orcid.org/0000-0001-9964-1294"
+version: "1.0.0"
+date-released: "2026-10-07"
+license: MIT
+# doi: "10.5281/zenodo.XXXXXXX"   # add the Zenodo DOI after the first release
+repository-code: "https://github.com/mfauziarif94/phb-molasses-gems"
